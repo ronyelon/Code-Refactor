@@ -16,7 +16,7 @@ This project involved updating the HTML and CSS files to:
     Removed repetitive code
     Reorganized CSS so it matches HTML code structure
 
-![alt text](assets/images/screenshot.png)
+![Horiseon Website Screenshot](assets/images/screenshot.PNG)
 
 Web Link:
 https://ronyelon.github.io/Code-Refactor/
