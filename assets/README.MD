@@ -17,7 +17,7 @@ This project involved updating the HTML and CSS files to:
     Reorganized CSS so it matches HTML code structure
 
 <p>
-    <img src="./assets/images/screenshot.PNG" />
+    <img src="/assets/images/Screenshot.PNG" />
 </p>
 
 Web Link:
