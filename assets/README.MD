@@ -16,7 +16,9 @@ This project involved updating the HTML and CSS files to:
     Removed repetitive code
     Reorganized CSS so it matches HTML code structure
 
-![screenshot](./assets/images/screenshot.PNG)
+<p>
+    <img src="./assets/images/screenshot.PNG" />
+</p>
 
 Web Link:
 https://ronyelon.github.io/Code-Refactor/
